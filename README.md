@@ -10,6 +10,7 @@ npm install -g pnpm
 
 ```bash
 cd equaim-server
+pnpm install
 pnpm dev
 ```
 
@@ -17,5 +18,6 @@ pnpm dev
 
 ```bash
 cd equaim-frontend
+pnpm install
 pnpm dev
 ```
