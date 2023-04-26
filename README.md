@@ -29,7 +29,7 @@ npm install -g pnpm
 
 ```bash
 git clone https://github.com/ayush-seth/equaim-assignment.git
-cd equaim
+cd equaim-assignment
 ```
 
 3. Install dependencies for both the server and frontend:
